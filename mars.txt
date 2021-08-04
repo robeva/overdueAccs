@@ -1,5 +1,2 @@
 Testing 1234
 Now about 30 characters
-...and a third lineage here
-line 4
-line 5
