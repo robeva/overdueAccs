@@ -1,0 +1,152 @@
+Fresh Fruit|1
+Fresh Vegetables|1
+Fresh Salad & Dips|1
+Juice & Smoothies|18
+Milk, Butter & Eggs|4
+Cheese|28
+Yoghurts|19
+Dairy Free & Dairy Alternatives|22
+Chilled Vegetarian & Vegan|22
+Fresh Meat & Poultry|3
+Chilled Fish & Seafood|3
+Cooked Meats, Sandwich Fillers & Deli|20
+Pies, Quiches & Party Food|20
+Fresh Pizza, Pasta & Garlic Bread|20
+Ready Meals|10
+Fresh Soup, Sandwiches & Salad Pots|10
+Counters|24
+World Foods|21
+Chilled Desserts|19
+
+Bread & Rolls|5
+Wraps, Pittas, Naan & Thins|5
+Crumpets, Muffins & Pancakes|5
+Croissants, Brioche & Pastries|5
+Teacakes, Fruit Loaves & Scones|5
+Doughnuts, Cookies & Muffins|5
+Cakes, Cake Bars, Slices & Pies|5
+Bakery Free From|5
+From our Bakery|5
+Easter Cakes & Hot Cross Buns|5
+
+Frozen Vegetables & Herbs|13
+Frozen Chips, Onion Rings, Potatoes & Rice|13
+Frozen Meat & Poultry|13
+Frozen Fish & Seafood|13
+Frozen Party Food & Sausage Rolls|13
+Frozen Pies|13
+Frozen Pizza & Garlic Bread|13
+Frozen Ready Meals|13
+Frozen Yorkshire Puddings & Stuffing|13
+Frozen Breakfast, Fruit & Pastry|13
+Frozen Vegetarian & Vegan|13
+Ice Cream, Ice Lollies & Frozen Desserts|13
+Ice Cubes|13
+Frozen Free From|13
+Frozen World Foods & Halal|13
+
+Dried Fruit, Nuts, Nutrient Powders & Seeds|11
+Hot Drinks|12
+Cereals|14
+Chocolate, Sweets, Mints & Chewing Gum|11
+Easter Chocolate & Eggs|11
+Crisps, Snacks, Nuts & Popcorn|11
+Biscuits & Cereal Bars|11
+Crackers & Crispbreads|11
+Free From Range|22
+Tins, Cans & Packets|6
+Cooking Ingredients|7
+Cooking Sauces & Meal Kits|10
+Dried Pasta, Rice, Noodles & Cous Cous|16
+Table Sauces, Marinades & Dressings|10
+World Foods|21
+Olives, Antipasti, Pickles & Chutneys|7
+Jams, Sweet & Savoury Spreads|17
+Desserts|19
+Home Baking|15
+Sugar & Sweeteners|15
+
+Juices & Smoothies|
+Fizzy & Soft Drinks|
+Water|
+Squash & Cordial|
+Adult Soft Drinks & Mixers|
+Kids Drinks|
+Sports, Energy & Wellness Drinks|
+Milkshake|
+On The Go Drinks|
+Tea|
+Coffee|
+Hot Chocolate & Malted Drinks|
+Beer & Cider|
+Wine|
+Spirits|
+Alcohol Free & Low Alcohol Drinks|
+Beer, Wine & Spirits Gift Sets|
+Ready To Drink Wine & Spirits|
+
+Nappies & Pants|
+Baby & Toddler Wipes|
+Baby & Toddler Toiletries|
+Baby & Toddler Healthcare|
+Baby & Toddler Milk|
+Baby & Toddler Food|
+Toilet Training|
+Mum to Be|
+Breast Feeding Accessories|
+Baby Bottles & Accessories|
+Baby Weaning & Accessories|
+Dummies & Teething|
+Sterilising & Antibacterial|
+Baby Laundry|
+Toys & Nursery Accessories|
+
+Make Up & Nails|
+Body Skincare|
+Facial Skincare|
+Haircare|
+Shower, Bath & Soap|
+Oral Care|
+Women's Toiletries|
+Men's Toiletries|
+Medicines & Treatments|
+Vitamins|
+Lifestyle & Wellbeing|
+Suncare & Travel|
+Gift Sets & Fragrances|
+
+Cat Food & Accessories|
+Dog Food & Accessories|
+Small Animal, Fish & Bird|
+
+Toilet Roll|
+Kitchen Roll & Tissues|
+Cleaning|
+Dishwashing|
+Air Fresheners & Home Fragrance|
+Household Essentials & Food Storage|
+Lightbulbs|
+Brushes, Mops & Buckets|
+Eco-Friendly Household|
+
+Mothers Day|
+Toys & Games|
+Stationery|
+Newsagent & Tobacconist|
+Gaming, Books & DVDs|
+Batteries|
+Cooking & Dining|
+Bedding|
+Bathroom Accessories & Towels|
+Home Accessories|
+Electrical|
+Printer Inks|
+DIY & Car Care|
+Party Decorations & Party Supplies|
+Garden & Outdoor|
+Flowers|
+
+Easter Eggs|
+Easter Egg Hunt|
+Easter Chocolates Treats|
+Hot Cross Buns & Easter Cakes|
