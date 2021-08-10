@@ -1,3 +1,14 @@
+usethis::use_testthat()
+library(testthat)
+
+# Load functions file
+setwd("C:/Users/robev/Documents/Companies_House/overdueAccs/R")
+getwd()
+source("functions.R")
+
+# Call function
+my_function(3,4)
+
 # Read CSV file
 ch_data <- read.csv("BasicCompanyData-2021-07-01-part1_6.csv", header = T)
 ch_data
