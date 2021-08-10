@@ -1,4 +1,3 @@
-usethis::use_testthat()
 library(testthat)
 
 # Load functions file
