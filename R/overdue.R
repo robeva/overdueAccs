@@ -9,8 +9,9 @@ getwd()
 # Call function
 my_function(3,4)
 
-# Read CSV file
-ch_data <- read.csv("data/BasicCompanyData-2021-07-01-part1_6.csv", header = T)
+# Read CSV file (ignore actual data for now - use dummy)
+# ch_data <- read.csv("data/BasicCompanyData-2021-07-01-part1_6.csv", header = T)
+ch_data <- read.csv("data/dummy.csv", header = T)
 ch_data
 
 # Summary of ch_data
