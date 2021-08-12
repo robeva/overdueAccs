@@ -1,21 +1,6 @@
-#' Print "Hello world" 
+#' Example Function to multiply two numbers 
 #'
-#' This is a simple function that, by default, prints "Hello world". You can 
-#' customize the text to print (using the \code{to_print} argument) and add
-#' an exclamation point (\code{excited = TRUE}).
-#'
-#' @param to_print A character string giving the text the function will print
-#' @param excited Logical value specifying whether to include an exclamation
-#'    point after the text
-#' 
-#' @return This function returns a phrase to print, with or without an 
-#'    exclamation point added. As a side effect, this function also prints out
-#'    the phrase. 
-#'
-#' @examples
-#' hello_world()
-#' hello_world(excited = TRUE)
-#' hello_world(to_print = "Hi world")
+#' This is a simple function that, by default, multiplies two numbers. 
 #'
 #' @export
 my_function <- function(x, y) {
@@ -24,8 +9,57 @@ my_function <- function(x, y) {
 }
 
 
-
-load_data <- function() {
+#' Demonstrate how the overdue function works using dummy data 
+#'
+#' This is an example function to demonstrate how the main function works. 
+#'
+#' @export
+example <- function() {
   load("./data/example_data.rda")
   example_data
+}
+
+
+#' Main Function
+#'
+#' This is calculates the percentage of overdue accounts. 
+#'
+#' @export
+overdue <- function(ch_data, mode = '') {
+  print("YAY")
+  
+  # Summary of ch_data
+  summary(ch_data)
+  
+  # Get a dataframe with only 3 columns (discard the rest)
+  all_companies <- ch_data[c("CompanyName", "CompanyStatus", "Accounts.NextDueDate")]
+  
+  # Get all active companies (discard the rest)
+  active <- all_companies[all_companies$CompanyStatus == "Active", ]
+  active
+  
+  # Convert date column to R date
+  active$Accounts.Due = as.Date(active$Accounts.NextDueDate, "%d/%m/%Y")
+  summary(active)
+  
+  # Get current date
+  current <- Sys.Date()
+  class(current)
+  
+  # Append column with overdue dates and select only these rows
+  active$due <- active$Accounts.Due - current
+  overdue <- active[active$due <0, ]
+  # na.omit gets rid of any row with N/A
+  overdue <- na.omit(overdue)
+  overdue
+  
+  # Calculate percentage of overdue accounts ... pod
+  all_companies_number <- nrow(all_companies)
+  all_companies_active <- nrow(active)
+  overdue_number <- nrow(overdue)
+  overdue_number
+  all_companies_active
+  
+  pod <- (overdue_number / all_companies_active) * 100
+  
 }
