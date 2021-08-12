@@ -1,6 +1,8 @@
 #' Example Function to multiply two numbers 
 #'
 #' This is a simple function that, by default, multiplies two numbers. 
+#' @param x one of the arguments to multiply.
+#' @param y one of the arguments to multiply.
 #'
 #' @export
 my_function <- function(x, y) {
@@ -16,13 +18,16 @@ my_function <- function(x, y) {
 #' @export
 example <- function() {
   load("./data/example_data.rda")
-  example_data
+  ed <- example_data
+  overdue(ed)
 }
 
 
 #' Main Function
 #'
 #' This is calculates the percentage of overdue accounts. 
+#' @param ch_data the dataset to work on.
+#' @param mode the type of account to include - default is all.
 #'
 #' @export
 overdue <- function(ch_data, mode = '') {

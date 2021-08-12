@@ -6,6 +6,11 @@
 \usage{
 overdue(ch_data, mode = "")
 }
+\arguments{
+\item{ch_data}{the dataset to work on.}
+
+\item{mode}{the type of account to include - default is all.}
+}
 \description{
 This is calculates the percentage of overdue accounts.
 }

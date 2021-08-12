@@ -6,6 +6,11 @@
 \usage{
 my_function(x, y)
 }
+\arguments{
+\item{x}{one of the arguments to multiply.}
+
+\item{y}{one of the arguments to multiply.}
+}
 \description{
 This is a simple function that, by default, multiplies two numbers.
 }
