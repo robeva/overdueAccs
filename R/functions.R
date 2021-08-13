@@ -17,9 +17,9 @@ my_function <- function(x, y) {
 #'
 #' @export
 example <- function() {
+  example_data <- NULL
   load("./data/example_data.rda")
-  ed <- example_data
-  overdue(ed)
+  overdue(example_data)
 }
 
 
