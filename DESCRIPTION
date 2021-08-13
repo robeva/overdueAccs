@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "robeva5921@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Calculates the percentage of overdue accounts in a dataset.
+Description: Calculates the percentage of overdue accounts in a dataset. Edit here...
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
